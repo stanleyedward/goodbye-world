@@ -1,6 +1,6 @@
 # goodbye-world script 
 
-### step 0 install nasm (varies from distributions)
+### step 0 install nasm (varies from distributions-to-distributions)
 ```sh
  sudo pacman -S nasm
 ```
